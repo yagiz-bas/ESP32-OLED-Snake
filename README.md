@@ -88,7 +88,7 @@ The passive buzzer produces different sounds for:
 
 1. Connect the components according to the wiring diagram.
 2. Install the U8g2 library in Arduino IDE.
-3. Open `SnakeCode.ino`.
+3. Open `src/SnakeCode.ino`.
 4. Select your ESP32 board.
 5. Select the correct COM port.
 6. Upload the code.
