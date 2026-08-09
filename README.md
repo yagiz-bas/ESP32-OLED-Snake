@@ -31,7 +31,7 @@ The project runs entirely on the ESP32 and provides joystick control, score trac
 
 ## Wiring
 
-![Wiring Diagram](wiring.png)
+![Wiring Diagram](Snake Wiring Diagram.png)
 
 ### OLED
 
